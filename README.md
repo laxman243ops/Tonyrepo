@@ -36,7 +36,9 @@ Building intelligent solutions with AI, Data Analytics, Cloud Computing, and Mod
 <a href="https://github.com/laxman243ops">
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+<a href="https://leetcode.com/u/teYYT7tVul/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 <a href="mailto:laxmanraobutcha243@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
